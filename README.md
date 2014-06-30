@@ -13,4 +13,6 @@ In this course, we will work with a number of tools that provide opportunities f
 
 Each step of the way, we will ask ourselves how these tools can be used to provide opportunites for learning for our students.
 
+For more info, see: http://example.com
+
 Welcome aboard!
