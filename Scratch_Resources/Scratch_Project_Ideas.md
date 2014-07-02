@@ -47,7 +47,7 @@ Character Traits
 Simple Machines*
 
 ##From Charlie and his group (Charlie, Kesiah, Karla, Tracy)
-1. *Animated concepts:* 
+*Animated concepts:* 
 - Show the different cycles:
 	+ Water Cycle
 	+ Carbon Cycle
@@ -61,9 +61,9 @@ Simple Machines*
 - Physical and chemical reactions
 - Response and stimuli 
 
-2. *Vocabulary:*
+*Vocabulary:*
 - Give students a different vocabulary word and have them explain the definition using Scratch
 - Have different students explain a vocabulary word in a cycle and have them all present in order of the cycle
 
-3. *Reinforcement Tools (games/quizzes)*
+*Reinforcement Tools (games/quizzes)*
 
