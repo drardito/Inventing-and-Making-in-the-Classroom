@@ -6,7 +6,7 @@ http://www.education.rec.ri.cmu.edu/content/lego/curriculum/rev1_index.htm
 
 Carnegie Mellon Univeraity has an entire curriculum (and supporting materials) for the use of LEGO robotics in classrooms. There are resources for teachers and students.
 
-##LEGO RObotics Tutorials on YouTube
+##LEGO Robotics Tutorials on YouTube
 http://www.youtube.com/results?search_query=LEGO+robotics+tutorials
 As you can imagine, people have posted tons of how-to videos for LEGO Robotics. 
 
