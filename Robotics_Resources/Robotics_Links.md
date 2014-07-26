@@ -1,5 +1,6 @@
 #Robotics Links
-Here are some links that support the use of robotics in teaching and learning.
+Here are some links that support the use of robotics in teaching and learning. 
+These sources are platform agnostic.
 
 ##Carnegie Mellon Robotics Academy
 http://www.education.rec.ri.cmu.edu/content/lego/curriculum/rev1_index.htm
